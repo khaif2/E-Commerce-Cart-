@@ -19,5 +19,5 @@ project structure
 
 ecommerce_cart/
 │
-├── cart_system.py     # Main Python file with all functions
-├── README.md          # Project description and usage
+├── cart system using collections    # Main Python file with all functions
+├── README                           # Project description and usage
